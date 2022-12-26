@@ -5,7 +5,7 @@ function fruitName(x, y) //Parameter
 
 fruitName('apple', 'mango'); //Argument
 
-// Another example
+// Another example(Default)
 
 function fruitName(name='apple') //Parameter
 {
